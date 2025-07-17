@@ -1,0 +1,18 @@
+- The fundamental building blocks of Godot are Nodes
+    - A node has a name and editable properties.
+    - A node receives callbacks to update every frame.
+    - A node can be extended with new properties and functions.
+    - Nodes can be added to other nodes as children.
+- Nodes form hierarchical trees
+    - The example given is that the character node owns the sprite node, the camera node, and the collision node which handle the sprite, camera, and 2d collision of the character respectively
+- Nodes in a tree form a scene (what?) which can be "collapsed" to be represented as a single node, which can be the child of other nodes.
+    - Scene just means a tree of nodes, okay, which can be a part of a subtree, main thing is it's always treeish
+    - There must always be at least one scene, a main scene which loads when the game runs
+- Scenes always have a root node, they can be saved locally, and they can have arbitrarily many instances, it's basically objects but set up in a specific way to avoid recursion, I think
+- Alright, when you open a project in Godot, the placement of things in the canvas actually matters a lot, you have to put thing down and to the right of the origin (for some reason) or they won't render in the view screen or w/e
+- Instances are instances of scenes and they also behave exactly as nodes. Disconnected copies of trees, I suppose
+    - Oh, they all inherit the properties of the original scene, so okay
+    - We're back to OOP
+- In-Godot, you create scripts for a node by right clicking on it in that right menu. The scripting language is not too hard, as things go. I mean, I can't do it at all, but still.
+- Signals are more or less how nodes communicate in Godot, there's a bit of a convoluted way to do it in-app, but scripting works just as well.
+- https://school.gdquest.com/cheatsheets/nodes_and_scenes?utm_source=chatgpt.com

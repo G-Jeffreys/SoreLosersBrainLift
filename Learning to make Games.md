@@ -1,0 +1,27 @@
+- **Godot Fundamentals**
+- __Scenes, Nodes, Signals, AnimationPlayer, InputMap, Resource system.__
+- [[Godot Fundamental]]
+- **GDScript**
+- __Syntax, coroutines (`await`), static typing hints, unit testing.__
+- [[Godot Advanced]]
+- **Godot 4 Multiplayer**
+- __`MultiplayerAPI`, RPCs, authority patterns, handling latency jitter, running two local instances for debug.__ [Godot Engine documentation](https://docs.godotengine.org/en/stable/tutorials/networking/high_level_multiplayer.html?utm_source=chatgpt.com)
+- [[Godot Advanced]]
+- **Headless Builds & AWS Basics**
+- __Exporting with `--headless`, configuring EC2 security groups, systemd service files, SSH, basic Linux command-line hygiene.__
+    - [[Advanced Features]]
+- **XP / Stat Systems**
+- __Simple ECS-style data (or just plain dictionaries) plus save-load pipelines; balancing curves.__
+    - [[Advanced Features]]
+- **CI/CD**
+- __Git branches, GitHub Actions YAML, artifact uploads, itch.io butler CLI.__ [GitHub](https://github.com/marketplace/actions/godot-export?utm_source=chatgpt.com)
+    - [[Advanced Features]]
+- **Basic Web Back-end** (only if you keep the LLM stretch goal or need cloud saves)
+- __FastAPI/Express fundamentals, REST vs. WebSocket, JSON schemas, CORS.__
+    - [[Advanced Features]]
+- **Asset Pipeline**
+- __Sprite slicing, texture channels, audio normalization, Godot import flags.__
+    - [[Advanced Features]]
+- **Play-test & Telemetry (later)**
+- __Log files, simple analytics events, maybe Grafana if you host longer matches.__
+    - [[Advanced Features]]

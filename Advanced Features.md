@@ -1,0 +1,16 @@
+- Headless Builds and AWS Basics
+    - https://www.youtube.com/watch?v=7YkhYTNuLU4&utm_source=chatgpt.com
+    - https://jonandrewdavis.com/godot-hosting-tips/
+    - https://docs.godotengine.org/en/4.4/tutorials/export/exporting_for_dedicated_servers.html?utm_source=chatgpt.com
+- XP/Stat Systems & Balancing
+    - https://www.youtube.com/watch?v=2gJ0VCx_IAA&utm_source=chatgpt.com
+    - https://www.reddit.com/r/gamedesign/comments/v888z2/creating_xp_drop_and_xp_needed_per_level_formulas/?utm_source=chatgpt.com
+    - https://www.wired.com/story/halo-infinite-progression-system?utm_source=chatgpt.com
+- CI/CD for One-Click Builds
+    - https://github.com/marketplace/actions/godot-export?utm_source=chatgpt.com
+    - https://github.com/marketplace/actions/godot-ci?utm_source=chatgpt.com
+    - https://www.youtube.com/watch?v=AbMESM0UEHk&utm_source=chatgpt.com
+- Asset Pipeline (Pixel-Perfect 2-D)
+    - https://forum.godotengine.org/t/how-to-import-pixel-art-in-godot-4/7105?utm_source=chatgpt.com
+    - https://www.aseprite.org/docs/slices/?utm_source=chatgpt.com
+    - https://www.youtube.com/shorts/H2eAzecoanQ?utm_source=chatgpt.com

@@ -1,0 +1,7 @@
+- The name of the game has to represent that it's about bad sportsmanship while playing a card game, but funny
+- May require that we know what the actual card game is at the core of the game
+    - Spades?
+    - Hearts?
+    - Skull?
+    - Some bespoke bluffing game?
+- Temporary Name: SoreLosers
